@@ -1,6 +1,8 @@
 # Oil-Knight
 Mini Jam 159: Ocean
 
+[Play now on itch.io](https://sourcecodesorcerer.itch.io/oil-knight)
+
 Author: Timothy Johnson <br>
 Date: May 23, 2024 to May 26, 2024
 
