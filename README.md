@@ -110,7 +110,7 @@ Each level contains polluted zones that must be fully cleaned to unlock the path
         git clone https://github.com/MrTimmyJ/oil-knight.git
         cd oil-knight
 
-    2. Open in Godot :
+    2. Open in Godot:
 
        Launch the Godot editor and open the project folder.
 
